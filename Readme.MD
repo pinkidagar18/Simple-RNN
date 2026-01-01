@@ -40,7 +40,7 @@ This project uses a Simple Recurrent Neural Network (RNN) trained on 25,000 IMDB
 
 ## 🏗️ System Architecture
 
-![System Architecture](images/System_arch.png)
+![System Architecture](Images/System_arch.png)
 
 **Data Flow:**
 ```
@@ -116,11 +116,11 @@ Would not recommend.
 ## 📸 Screenshots
 
 ### Home Page
-![Home Page](images/Home_page.png)
+![Home Page](Images/Home_page.png)
 *Modern dark interface with text input and sample reviews*
 
 ### Prediction Results
-![Prediction Results](images/Prediction_page.png)
+![Prediction Results](Images/Prediction_page.png)
 *Real-time sentiment analysis with confidence metrics and gauge chart*
 
 ## 🔧 Troubleshooting
